@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "PRUEBA-POST-1",
+        "description": "esto es una prueba",
+        "code": "eASD",
+        "price": 123,
+        "status": true,
+        "stock": 4,
+        "category": "prueba"
+    },
+    {
+        "id": 2,
+        "title": "PRUEBA-POST-2",
+        "description": "esto es una prueba",
+        "code": "eASD",
+        "price": 412,
+        "status": true,
+        "stock": 41,
+        "category": "prueba"
+    },
+    {
+        "id": 3,
+        "title": "PRUEBA-POST-3",
+        "description": "esto es una prueba",
+        "code": "eASD",
+        "price": 512,
+        "status": true,
+        "stock": 123,
+        "category": "prueba"
+    }
+]
